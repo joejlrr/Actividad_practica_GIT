@@ -1,0 +1,1 @@
+Este es un archivo para la actividad 2 del curso de GIT.
